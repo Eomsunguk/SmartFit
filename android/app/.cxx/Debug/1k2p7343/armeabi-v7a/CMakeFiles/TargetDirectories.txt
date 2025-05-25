@@ -1,0 +1,2 @@
+C:/smartfit/android/app/.cxx/Debug/1k2p7343/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/smartfit/android/app/.cxx/Debug/1k2p7343/armeabi-v7a/CMakeFiles/rebuild_cache.dir
